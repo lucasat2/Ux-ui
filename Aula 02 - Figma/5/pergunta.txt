@@ -1,0 +1,1 @@
+Construa um local na página de Ideias e especificações, seja usando frames ou não, para inserir seus componentes. Anexe o print e explique por que fez dessa forma.

@@ -1,0 +1,4 @@
+Crie interação entre as páginas utilizando o menu de protótipo e salve seu projeto em PDF (Clicando no “F” > Files > Export frames to PDF) para anexar incluindo também o link do seu projeto.
+
+
+https://www.figma.com/design/zKsp36WjSKyJl2P6v73YpQ/AlphaFood?node-id=1-2&node-type=canvas&t=AQZbma81ZkIDsHdT-0

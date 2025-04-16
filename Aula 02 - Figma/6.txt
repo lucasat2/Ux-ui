@@ -1,0 +1,5 @@
+Explique a importância de criar componentes no desenvolvimento de um protótipo.
+
+
+
+Os componentes servem como um padrão para usar em vários locais, sem ter que desenha-lo novamente todas as vezes que for reutilizar, isso mantem um padrão visual, facilitando a manutenção do protótipo. Também é possivel alterar caracteristicas de um componente e refletir em vários sem ter de alterar um por 1

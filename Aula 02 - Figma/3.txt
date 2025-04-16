@@ -1,0 +1,6 @@
+No seu ponto de vista, utilizar cores padrão usando a parte de estilos no figma é importante e ajuda em alguma coisa? Explique sua resposta.
+
+Sim, utilizar cores padrão garante que todos os elementos da interface sigam a mesma paleta.
+Alterar uma cor padrão nos estilos reflete automaticamente em todos os elementos que utilizam aquela cor no projeto
+Desenvolvedores conseguem acessar facilmente o sistema de cores
+Em equipes de design, todos os membros têm acesso às mesmas cores definidas nos estilos,

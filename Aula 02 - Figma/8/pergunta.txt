@@ -1,0 +1,1 @@
+Na página de protótipo crie frames para representar cada página, adicione setas do fluxo das sua telas (exemplo: seta de login para home) e anexe o print desse “molde” inicial das telas.

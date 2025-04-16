@@ -1,0 +1,1 @@
+Agora transforme cada cor escolhida em um padrão de cores (Style) no figma para ficar mais fácil de usar e alterar as cores futuramente. Anexe o print do resultado final.
