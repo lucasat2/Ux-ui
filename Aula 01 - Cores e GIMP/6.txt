@@ -1,0 +1,16 @@
+O que é a o Creative Commons? Fale sobre e discorra sobre cada uma de suas licenças
+
+é um conjunto de licenças que define como uma obra pode ser compartilhada. 
+Segue quais são: 
+
+Atribuição (CC BY): Permite que outros usem, adaptem e compartilhem a obra, desde que atribuam o crédito ao autor original.
+
+Atribuição - CompartilhaIgual (CC BY-SA): Semelhante à CC BY, mas exige que as obras derivadas sejam licenciadas sob os mesmos termos.
+
+Atribuição - Sem Derivações (CC BY-ND): Permite o uso da obra na íntegra, mas não permite modificações ou obras derivadas.
+
+Atribuição - Não Comercial (CC BY-NC): Permite o uso e adaptação da obra para fins não comerciais, com atribuição ao autor.
+
+Atribuição - Não Comercial - CompartilhaIgual (CC BY-NC-SA): Combina os termos da CC BY-NC e CC BY-SA, permitindo adaptações não comerciais sob a mesma licença.
+
+Atribuição - Não Comercial - Sem Derivações (CC BY-NC-ND): A mais restritiva, permite apenas o compartilhamento da obra original sem modificações e apenas para fins não comerciais.

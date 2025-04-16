@@ -1,0 +1,8 @@
+Responda:
+
+O que é UX/UI? Explique e cite diferenças caso exista.
+É importante um profissional de TI/desenvolvedor web saber sobre UX/UI? Explique sua resposta.
+ 
+User Experience é a forma como o usuário utilizar um site , aplicativo , plataforma. Tem a ver como ele se sente, se é fácil navegar e usar as funcionalidades. Já o Ui tem a ver com a harmonia na aparência , o uso de cores corretas , tipografia. Tem mais a ver com coerencia visual.  
+
+   Sim, é muito importante que o usuário saiba um pouco sobre essas técnicas quando for desenvolver suas aplicações para combinar os dois.

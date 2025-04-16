@@ -1,0 +1,3 @@
+Crie uma imagem com cor sólida no fundo de tamanho 10x10cm mantendo a resolução em 300px/in e salve em um diretório (exportar) depois crie outra com o mesmo tamanho e mesma cor mas com resolução 70px/in e salve no mesmo diretório. Depois verifique o tamanho de cada um arquivo gerado, envie o print da comparação de tamanho entre os mesmos e dos principais passos realizados assim como a respectiva descrição de cada passo. Explique o motivo para a diferença de tamanho.
+
+ 

@@ -1,0 +1,4 @@
+Escolha uma imagem de domínio público que não tenha a extensão de arquivo .png, faça uma seleção em uma parte da imagem e delete para remover o fundo depois adicione o canal alpha e faça o mesmo em outra parte da imagem. Caso a imagem já tenha canal alpha escolha outra e repita o processo. Anexe a imagem final e explique por que as duas remoções de fundo tiveram resultados diferentes.
+
+ 
+Uma parte removeu mantendo um fundo branco atras, se houvesse um objeto ali, quando salvasse, o fundo branco permaneceria. Quando adicionamos o canal alpha e removemos, caso houvesse algum objeto naquela area, somente ele ficaria visivel, sendo possivel encaixa-lo em qualquer outra imagem sem o fundo branco

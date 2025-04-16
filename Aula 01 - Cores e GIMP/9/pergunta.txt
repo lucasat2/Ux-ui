@@ -1,0 +1,4 @@
+Escolha uma foto qualquer (pode ser de algum banco de imagens de domínio publico u até mesmo sua imagem) e remova o fundo, salve com a extensão de arquivo .png e anexe como resposta. Utilize pelo menos uma ferramenta de seleção e tire prints das principais partes. Explique por que utilizou a ferramenta escolhida e não outra.
+
+
+a ferramenta de selecao foi a selecao contigua, primeiro adicionei o canal alpha e cliquei na cor predominante atras do cachorro e deletei o fundo

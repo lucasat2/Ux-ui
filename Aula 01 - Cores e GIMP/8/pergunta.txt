@@ -1,0 +1,4 @@
+Planeje a criação de uma determinada arte (qualquer) onde utilize algum(s) dos filtros presente no GIMP, baixe/copie sua imagem base de um banco de imagens de domínio público, insira sua imagem no GIMP e insira o filtro desejado. Deve ser utilizado mais de uma camada com um propósito justificável e pelo menos uma ferramenta de seleção em alguma parte do processo. Tire e anexe prints das principais partes do processo que julgue importante e descreva os passos realizados explicando por que utilizou determinada ferramenta.
+
+ 
+Foi inserido um filtro de lente e de distorção no osso, colei a imagem em outra camada diferente da do cachorro e o apliquei. Não houve necessidade de usar a ferramenta de selecao pois ao colar a imagem do osso por cima, cliquei com o botão direito nela , selecionei os filtros e apliquei
